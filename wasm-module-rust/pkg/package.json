@@ -1,0 +1,11 @@
+{
+  "name": "wasm-module-rust",
+  "version": "0.1.0",
+  "files": [
+    "wasm_module_rust_bg.wasm",
+    "wasm_module_rust.js",
+    "wasm_module_rust.d.ts"
+  ],
+  "main": "wasm_module_rust.js",
+  "types": "wasm_module_rust.d.ts"
+}
